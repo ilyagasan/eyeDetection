@@ -1,0 +1,2 @@
+./test_Images\image_class_2_517.jpg 2 109 337 331 331 
+./test_Images\image_class_2_634.jpg 2 78 451 363 363 
